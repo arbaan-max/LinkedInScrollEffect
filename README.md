@@ -1,3 +1,3 @@
 # linkedin_scroll
 
-![image alt](https://github.com/arbaan-max/LinkedInScrollEffect/blob/cd8e32192ff7dfc18cad1e2f2250f285068639bb/demo.mp4)
+https://github.com/user-attachments/assets/8062a47d-91a9-431a-8599-83dc1704663f
